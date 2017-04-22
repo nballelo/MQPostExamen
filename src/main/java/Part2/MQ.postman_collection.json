@@ -1,0 +1,131 @@
+{
+	"variables": [],
+	"info": {
+		"name": "MQ",
+		"_postman_id": "1a5fdaaf-969b-5a83-476d-f631ffe5eafb",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/myapp/json/modifyUser/Masmi",
+			"request": {
+				"url": "http://localhost:8080/myapp/json/modifyUser/Masmi",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Masmi\",\n\t\"pass\":\"Mynewpass\"\n}"
+				},
+				"description": "modifyUser"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/myapp/json/getAll",
+			"request": {
+				"url": "http://localhost:8080/myapp/json/getAll",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Masmi\"\n}"
+				},
+				"description": "Get All User"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/myapp/json/Masmi/getObject",
+			"request": {
+				"url": "http://localhost:8080/myapp/json/Masmi/getObject",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Lobo\",\n\t\"lvl\":2\n}"
+				},
+				"description": "get Etackemons"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/myapp/json/setEtackemon/Masmi",
+			"request": {
+				"url": "http://localhost:8080/myapp/json/Masmi/setObject",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Lobo\",\n\t\"lvl\":2\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/myapp/json/getUser/Masmi",
+			"request": {
+				"url": "http://localhost:8080/myapp/json/getUser/Masmi",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Masmi\"\n}"
+				},
+				"description": "Get User"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/myapp/json/setUser",
+			"request": {
+				"url": "http://localhost:8080/myapp/json/setUser",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Masmi\",\n\t\"pass\":\"mypass\"\n}"
+				},
+				"description": "Set User"
+			},
+			"response": []
+		}
+	]
+}

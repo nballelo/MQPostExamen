@@ -1,0 +1,117 @@
+2017-04-20 16:51:25 INFO  Part1.EtakemonManagerImpl:19 - Se ha creado la tabla
+2017-04-20 16:51:25 INFO  Part1.EtakemonManagerImpl:30 - Se ha añadido: Nombre a la lista de usuarios
+2017-04-20 16:51:25 ERROR Part1.EtakemonManagerImpl:33 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-20 16:51:25 INFO  Part1.EtakemonManagerImpl:30 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-20 16:51:25 ERROR Part1.EtakemonManagerImpl:33 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-20 16:51:25 ERROR Part1.EtakemonManagerImpl:43 - No se ha podido modificar: Nombre de la lista de usuarios
+2017-04-20 16:51:25 INFO  Part1.EtakemonManagerImpl:63 - Se ha añadido: Lobo de la lista de objetos de: Nombre
+2017-04-20 16:51:25 ERROR Part1.EtakemonManagerImpl:33 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-20 16:52:48 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-20 16:52:48 INFO  EtakemonManagerImpl:32 - Se ha añadido: Nombre a la lista de usuarios
+2017-04-20 16:52:48 ERROR EtakemonManagerImpl:35 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-20 16:52:48 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-20 16:52:48 ERROR EtakemonManagerImpl:35 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-20 16:52:48 ERROR EtakemonManagerImpl:45 - No se ha podido modificar: Nombre de la lista de usuarios
+2017-04-20 16:52:48 INFO  EtakemonManagerImpl:65 - Se ha añadido: Lobo de la lista de objetos de: Nombre
+2017-04-20 16:52:48 ERROR EtakemonManagerImpl:35 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-21 11:47:28 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 11:47:28 INFO  EtakemonManagerImpl:32 - Se ha añadido: Nombre a la lista de usuarios
+2017-04-21 11:47:52 ERROR EtakemonManagerImpl:35 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-21 11:49:15 ERROR EtakemonManagerImpl:35 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-21 11:50:19 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 11:50:19 INFO  EtakemonManagerImpl:32 - Se ha añadido: Nombre a la lista de usuarios
+2017-04-21 11:52:03 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 11:52:03 INFO  EtakemonManagerImpl:32 - Se ha añadido: Nombre a la lista de usuarios
+2017-04-21 11:52:19 ERROR EtakemonManagerImpl:35 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-21 11:53:37 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 11:53:37 INFO  EtakemonManagerImpl:32 - Se ha añadido: Nombre a la lista de usuarios
+2017-04-21 11:56:46 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 11:56:46 INFO  EtakemonManagerImpl:32 - Se ha añadido: Nombre a la lista de usuarios
+2017-04-21 11:57:15 ERROR EtakemonManagerImpl:35 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-21 11:58:45 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 11:58:45 INFO  EtakemonManagerImpl:32 - Se ha añadido: Nombre a la lista de usuarios
+2017-04-21 11:59:21 ERROR EtakemonManagerImpl:35 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-21 12:01:27 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:01:27 INFO  EtakemonManagerImpl:32 - Se ha añadido: Nombre a la lista de usuarios
+2017-04-21 12:01:57 ERROR EtakemonManagerImpl:35 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-21 12:18:51 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:18:51 INFO  EtakemonManagerImpl:32 - Se ha añadido: Nombre a la lista de usuarios
+2017-04-21 12:18:51 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:19:28 ERROR EtakemonManagerImpl:35 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-21 12:19:35 ERROR EtakemonManagerImpl:35 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-21 12:19:44 ERROR EtakemonManagerImpl:35 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-21 12:19:45 ERROR EtakemonManagerImpl:35 - No se ha podido añadir: Nombre a la lista de usuarios
+2017-04-21 12:22:14 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:22:14 INFO  EtakemonManagerImpl:32 - Se ha añadido: Nombre a la lista de usuarios
+2017-04-21 12:23:13 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:23:13 INFO  EtakemonManagerImpl:32 - Se ha añadido: Nombre a la lista de usuarios
+2017-04-21 12:25:34 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:25:34 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:28:07 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:28:12 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:30:01 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:30:55 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:31:27 ERROR EtakemonManagerImpl:35 - No se ha podido añadir: Masmi a la lista de usuarios
+2017-04-21 12:32:30 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:32:36 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:33:24 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:33:24 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:35:22 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:35:23 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:39:16 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:39:17 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:39:25 INFO  EtakemonManagerImpl:32 - Se ha añadido: asdasa a la lista de usuarios
+2017-04-21 12:41:32 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:41:33 INFO  EtakemonManagerImpl:32 - Se ha añadido: asdasa a la lista de usuarios
+2017-04-21 12:41:42 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:42:58 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:42:58 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:44:02 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:44:03 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:46:05 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:46:05 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:47:51 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:47:52 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:50:34 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:50:34 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:52:18 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:52:18 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:52:57 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:53:02 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:55:57 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:55:57 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:56:16 ERROR EtakemonManagerImpl:45 - No se ha podido modificar: Masmi de la lista de usuarios
+2017-04-21 12:56:16 INFO  EtakemonManagerImpl:66 - Se ha añadido: Lobo de la lista de objetos de: Masmi
+2017-04-21 12:58:36 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 12:58:36 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 12:58:42 ERROR EtakemonManagerImpl:45 - No se ha podido modificar: Masmi de la lista de usuarios
+2017-04-21 12:58:42 INFO  EtakemonManagerImpl:66 - Se ha añadido: Lobo de la lista de objetos de: Masmi
+2017-04-21 13:00:32 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 13:00:32 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 13:01:18 ERROR EtakemonManagerImpl:45 - No se ha podido modificar: Masmi de la lista de usuarios
+2017-04-21 13:01:18 INFO  EtakemonManagerImpl:66 - Se ha añadido: Lobo de la lista de objetos de: Masmi
+2017-04-21 13:31:49 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 13:31:50 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 13:32:46 ERROR EtakemonManagerImpl:45 - No se ha podido modificar: Masmi de la lista de usuarios
+2017-04-21 13:32:46 INFO  EtakemonManagerImpl:66 - Se ha añadido: Lobo de la lista de objetos de: Masmi
+2017-04-21 13:33:11 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 13:33:12 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 13:33:17 ERROR EtakemonManagerImpl:45 - No se ha podido modificar: Masmi de la lista de usuarios
+2017-04-21 13:33:17 INFO  EtakemonManagerImpl:66 - Se ha añadido: Lobo de la lista de objetos de: Masmi
+2017-04-21 16:41:38 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 16:43:01 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 16:43:09 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 16:44:34 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 16:44:35 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 16:44:40 ERROR EtakemonManagerImpl:45 - No se ha podido modificar: Masmi de la lista de usuarios
+2017-04-21 16:44:40 INFO  EtakemonManagerImpl:66 - Se ha añadido: Lobo de la lista de objetos de: Masmi
+2017-04-21 16:47:16 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 16:47:16 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 16:47:20 ERROR EtakemonManagerImpl:45 - No se ha podido modificar: Masmi de la lista de usuarios
+2017-04-21 16:47:20 INFO  EtakemonManagerImpl:66 - Se ha añadido: Lobo de la lista de objetos de: Masmi
+2017-04-21 16:47:28 ERROR EtakemonManagerImpl:45 - No se ha podido modificar: Masmi de la lista de usuarios
+2017-04-21 16:49:19 INFO  EtakemonManagerImpl:21 - Se ha creado la tabla
+2017-04-21 16:49:20 INFO  EtakemonManagerImpl:32 - Se ha añadido: Masmi a la lista de usuarios
+2017-04-21 16:49:24 INFO  EtakemonManagerImpl:42 - Se ha modificado: Masmi de la lista de usuarios
+2017-04-21 16:49:24 INFO  EtakemonManagerImpl:66 - Se ha añadido: Lobo de la lista de objetos de: Masmi
+2017-04-21 16:49:30 INFO  EtakemonManagerImpl:42 - Se ha modificado: Masmi de la lista de usuarios

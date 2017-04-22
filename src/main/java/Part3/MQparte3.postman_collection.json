@@ -1,0 +1,131 @@
+{
+	"variables": [],
+	"info": {
+		"name": "MQparte3",
+		"_postman_id": "8ba1574c-b3bb-48c8-5f85-11993de3a639",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/myapp/json/modifyUser/Masmi copy",
+			"request": {
+				"url": "http://localhost:8080/myapp/part3/modifyUser/Masmi",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Masmi\",\n\t\"pass\":\"Mynewpass\"\n}"
+				},
+				"description": "modifyUser"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/myapp/json/getAll copy",
+			"request": {
+				"url": "http://localhost:8080/myapp/part3/getAll",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Masmi\"\n}"
+				},
+				"description": "Get All User"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/myapp/json/Masmi/getObject copy",
+			"request": {
+				"url": "http://localhost:8080/myapp/part3/Masmi/getObject",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Lobo\",\n\t\"lvl\":2\n}"
+				},
+				"description": "get Etackemons"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/myapp/json/setEtackemon/Masmi copy",
+			"request": {
+				"url": "http://localhost:8080/myapp/part3/Masmi/setObject",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Lobo\",\n\t\"lvl\":2\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/myapp/json/getUser/Masmi copy",
+			"request": {
+				"url": "http://localhost:8080/myapp/part3/getUser/Masmi",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Masmi\"\n}"
+				},
+				"description": "Get User"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/myapp/json/setUser copy",
+			"request": {
+				"url": "http://localhost:8080/myapp/part3/setUser",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Masmito\",\n\t\"pass\":\"mypass\"\n}"
+				},
+				"description": "Set User"
+			},
+			"response": []
+		}
+	]
+}
